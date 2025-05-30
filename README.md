@@ -4,7 +4,8 @@ Projects completed at TripleTen
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| Project 1 | New York Rentals | This project looks at rentals in New York to answer which neighborhoods generate the most profit, the most popular number of rooms, and projected yearly profit |
+| Project 0 | [Project Beats](https://github.com/avs-2/Data_projects_TripleTen/tree/main/Project%20Beats)||
+| Project 1 | New York Rentals | This projectlooks at rentals in New York to answer which neighborhoods generate the most profit, the most popular number of rooms, and projected yearly profit |
 | Project 2 | Zuber Analysis | This project finds trends from data from taxi services in Chicago and find the effects of weather on rides |
 | Project 3 | Business Metrics | Report analyzing the conversion and retention rate |
 | Project 4 | Superstore Tableau Visualization | Report using Tableau visualzations to look at profits, returns and benefit of advertising |  
